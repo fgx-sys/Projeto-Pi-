@@ -1,0 +1,21 @@
+codigo,nome,cpf_cnpj,data_nascimento,sexo,cidade,estado,status
+1,Ana Silva,11111111111,01/01/1990,F,São Paulo,SP,Ativo
+2,Bruno Costa,22222222222,02/02/1991,M,Campinas,SP,Ativo
+3,Carlos Lima,33333333333,03/03/1992,M,Santos,SP,Ativo
+4,Diana Rocha,44444444444,04/04/1993,F,Curitiba,PR,Ativo
+5,Eduardo Santos,55555555555,05/05/1994,M,BH,MG,Ativo
+6,Fernanda Dias,66666666666,06/06/1995,F,RJ,RJ,Ativo
+7,Gabriel Souza,77777777777,07/07/1996,M,Salvador,BA,Ativo
+8,Helena Martins,88888888888,08/08/1997,F,Recife,PE,Inativo
+9,Igor Alves,99999999999,09/09/1998,M,Fortaleza,CE,Ativo
+10,Juliana Gomes,10101010101,10/10/1999,F,Manaus,AM,Ativo
+11,Kevin Oliveira,11111111112,11/11/2000,M,Brasília,DF,Ativo
+12,Laura Pereira,12121212121,12/12/2001,F,Vitória,ES,Inativo
+13,Marcos Ribeiro,13131313131,13/01/1989,M,Goiânia,GO,Ativo
+14,Natália Cardoso,14141414141,14/02/1988,F,Natal,RN,Ativo
+15,Otávio Ferreira,15151515151,15/03/1987,M,João Pessoa,PB,Ativo
+16,Patrícia Araújo,16161616161,16/04/1986,F,Teresina,PI,Inativo
+17,Rafael Barbosa,17171717171,17/05/1985,M,Maceió,AL,Ativo
+18,Sabrina Campos,18181818181,18/06/1984,F,Aracaju,SE,Ativo
+19,Thiago Monteiro,19191919191,19/07/1983,M,Cuiabá,MT,Inativo
+20,Vanessa Duarte,20202020202,20/08/1982,F,Campo Grande,MS,Ativo
